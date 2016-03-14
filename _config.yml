@@ -1,21 +1,21 @@
 # Site settings
-title: CompanyName
-email: you@CompanyName.com
-description: "Edit description in _config.yml"
-info: "Edit this info in _config.yml"
-message: "Edit this message in _config.yml"
-keywords: "mac,apple,iphone,ios,osx,games,apps,development"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.delightfuldev.com" # the base hostname & protocol for your site
-twitter_username: companytwitter
+title: ely.io
+email: e@ely.io
+description: "Presenting my [aspiring] mad App-Building skills"
+info: "More apps in the oven now so keep an eye out"
+message: "Need an App Designed and Developed for you/yours, give me a Holla"
+keywords: "mac,apple,iphone,ios,processing,design,hybrid,iPad,,apps,development"
+baseurl: "/appstar/"
+url: "http://www.ely.io" # the base hostname & protocol for your site
+twitter_username: creativ_ely
 # Build settings
 markdown: kramdown
 author:
-    name: Your Name
-    twitter: yourtwitter
-    url: http://www.yoururl.com
+    name: Ely Kahn
+    twitter: creativ_ely
+    url: http://www.ely.io
     header_bg: /images/profile-header.png
     avatar: /images/avatar.jpg
-    email: you@CompanyName.com
+    email: e@ely.io
 facebook:
     image: /images/delightfuldev-facebook-cover.png
