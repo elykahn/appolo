@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Appolo"
-subtitle: "Showcase your apps. With style."
+title:  "AppStar"
+subtitle: "Showcasing hot apps. Design and Functionality with style."
 description: "Responsive Jekyll Themes for Apps Portfolio"
-date:   2015-12-26 09:32:24
+date:   2016-03-13 09:32:24
 categories: web
-permalink: "appolo"
+permalink: "appstar"
 device: "macbook"
-name: "Appolo"
-tagline: "App Portfolio for App developers"
+name: "AppStar"
+tagline: "App Showcase"
 ---
 
 
 {% img center | /images/appolo/appolo-on-devices.png | Appolo for Jekyll %}
 
 {% textalign center %}
-Introducing Appolo, a set of plugins and themes for [Jekyll](http://jekyllrb.com) to create a static portfolio website for app developers to showcase their work. Its minimalistic theme and playful animations make it perfect to display the amazing apps you have made. The responsive design looks perfect in desktop or mobile. It also comes with a set of plugins to remove the hassle of formatting your apps' pages. The theme is based on a [Zoom Slider demo](http://tympanus.net/codrops/2015/07/06/zoom-slider/) in [Codrops](http://tympanus.net/codrops).
+Introducing AppStar, a display of hot apps built on top of [Jekyll](http://jekyllrb.com) to show apps I designed, developed or assisted in production. The theme is based on a [Zoom Slider demo](http://tympanus.net/codrops/2015/07/06/zoom-slider/) in [Codrops](http://tympanus.net/codrops).
 {% endtextalign %}
 
 {% section_title Adding A New App %}
@@ -28,7 +28,7 @@ title >> `title` appears on the top of the app's page.
 subtitle >> `subtitle` appears after the `title` in the app's page.
 description >> Used in the head's meta.
 date >> Published date.
-categories >> Not used currently.
+categories >> Not used cexteurrently.
 permalink >> NEEDED. This sets the app's URL to baseurl/permalink.  
 device >> Type of device to use for this app in the landing page. Available options: imac, macbook, iphone, ipad, and apple-watch.
 name >> Name of the app that is shown on the landing page.
